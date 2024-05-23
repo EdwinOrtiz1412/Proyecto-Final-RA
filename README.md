@@ -17,7 +17,7 @@ Con nuestro proyecto AR-TecTlaxiaco, buscamos no solo proporcionar información 
 - Marcador de imagen 
 - Dispositivo con camara
 # COMO UTILIZAR LA APLICACIÓN
-https://drive.google.com/file/d/15QcskNeMnk_WN-0F3fzBN2AK9SVbH1k4/view?usp=drivesdk
+
 
 # EQUIPO DE DESARROLLO :computer::boy:
 <table style="width: 100%; text-align: center;">
@@ -57,4 +57,4 @@ https://drive.google.com/file/d/15QcskNeMnk_WN-0F3fzBN2AK9SVbH1k4/view?usp=drive
 ## Estilo de letra utilizada (Bebas Neue)
 - https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap
 # LINK DE PROYECTO
-## https://gilded-melba-1184df.netlify.app/
+## https://merry-strudel-e5d07e.netlify.app/
