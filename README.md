@@ -1,18 +1,20 @@
-# Octacat-AR :smiley_cat::iphone::octopus:
-Debido a la gran demanda tecnológica actual y al creciente interés de muchas empresas por la inclusión de diversas tecnologías para presentar sus productos, la Realidad Aumentada (RA) se posiciona como una gran herramienta que permite aumentar un espacio físico según las características deseada. Los medios basados en imágenes presentan limitaciones a nivel de interacción e inmersión ya que el usuario solo puede ver el proyecto establecido sin modificar parámetros que le permitan sentirse a gusto con el espacio arquitectónico de su interés.
+# Yakuin-AR :smiley_cat::iphone::octopus:
+En respuesta a la creciente necesidad de ofrecer información detallada y accesible sobre el Tecnológico de Tlaxiaco, así como para aprovechar las ventajas de la realidad aumentada (AR) en el ámbito educativo, surge nuestro proyecto AR-TecTlaxiaco. La realidad aumentada nos permite integrar elementos digitales en el mundo real, ofreciendo una experiencia interactiva e inmersiva para los usuarios.
 # OBJETIVO DEL PROYECTO :checkered_flag:
-Desarrollar un prototipo de aplicación interactiva basada en realidad aumentada para visualizar un apartamento y realizar modificaciones visuales de colores, texturas y distribuciones predeterminadas.
+Desarrollar una aplicación de realidad aumentada que permita a los usuarios escanear una imagen para acceder a información detallada sobre el Tecnológico de Tlaxiaco, incluyendo su oferta educativa, galerías de fotos, y datos de contactos.
 # OBJETIVO ESPECIFICO :mag:
-- Caracterizar el prototipo a desarrollar.
-- Analizar, depurar y levantar tridimensionalmente la información recopilada.
-- Realizar el diseño del desarrollo de software con base a los prototipos.
-- Desarrollar el entorno de realidad aumentada que permita la visualización del prototipo desde distintos ángulos.
+-Caracterizar el prototipo de la aplicación AR.
+-Recopilar y organizar la información relevante sobre el Tecnológico de Tlaxiaco.
+-Desarrollar la aplicación AR para dispositivos móviles utilizando las bibliotecas Mind AR y AR.js.
+-Integrar funcionalidades avanzadas como el reconocimiento de voz y la síntesis de voz para mejorar la interactividad de la aplicación
 # JUSTIFICACIÓN :pencil:
-La realidad aumentada permite complementar la experiencia del usuario a través de la inmersión en un espacio virtual 3D y la interacción a través de parámetros personalizables del modelo ya que su acceso no está limitado a un espacio físico o equipo específico. Estas características permiten la toma de decisiones con base en la navegación del espacio virtual que complementan los medios tradicionales como los folletos, planos y videos utilizados frecuentemente en la actualidad. 
+La realidad aumentada ofrece una forma innovadora y accesible de presentar información educativa, permitiendo a los usuarios explorar el Tecnológico de Tlaxiaco de manera interactiva y dinámica. Además, la integración de funcionalidades como el reconocimiento de voz amplía las posibilidades de interacción, mejorando así la experiencia del usuario.
+
+Con nuestro proyecto AR-TecTlaxiaco, buscamos no solo proporcionar información sobre el Tecnológico de Tlaxiaco, sino también inspirar a otros institutos educativos a adoptar tecnologías innovadoras para mejorar la forma en que presentan su información y se conectan con su comunidad.
 # REQUISITOS :heavy_check_mark:
 - Internet
 - Navegador
-- Marcador de imagen (Octocad)
+- Marcador de imagen 
 - Dispositivo con camara
 # COMO UTILIZAR LA APLICACIÓN
 https://drive.google.com/file/d/15QcskNeMnk_WN-0F3fzBN2AK9SVbH1k4/view?usp=drivesdk
@@ -24,25 +26,22 @@ https://drive.google.com/file/d/15QcskNeMnk_WN-0F3fzBN2AK9SVbH1k4/view?usp=drive
     <td style="width: 33%;">Rol</td>
   </tr>
   <tr>
-    <td style="width: 33%;">Jaciel García Santiago</td>
+    <td style="width: 33%;">Irving Fernando Reyes Pacheco </td>
     <td style="width: 33%;">Lider del proyecto</td>
   </tr>
   <tr>
-    <td style="width: 33%;">Emmanuel Riaño Hernández</td>
+    <td style="width: 33%;">Diego Alexis Carlos Cruz</td>
     <td style="width: 33%;">Programador</td>
   </tr>
   <tr>
-    <td style="width: 33%;">Antonio Cruz Chavez</td>
+    <td style="width: 33%;">Dario Sanchez Linton</td>
     <td style="width: 33%;">Tester</td>
   </tr>
   <tr>
-    <td style="width: 33%;">Marcos Jonathan García Núñez</td>
-    <td style="width: 33%;">Diseñador</td>
+    <td style="width: 33%;">Edwin Ortiz Cruz</td>
+    <td style="width: 33%;">Programador</td>
   </tr>
-  <tr>
-    <td style="width: 33%;">David Juan Feria Ortiz</td>
-    <td style="width: 33%;">Analista</td>
-  </tr>
+
 </table>
 
 
