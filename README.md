@@ -17,7 +17,7 @@ Con nuestro proyecto AR-TecTlaxiaco, buscamos no solo proporcionar información 
 - Marcador de imagen 
 - Dispositivo con camara
 # COMO UTILIZAR LA APLICACIÓN
-
+https://www.youtube.com/watch?v=CXkVXevoddo&ab_channel=irvingfernandoreyespacheco
 
 # EQUIPO DE DESARROLLO :computer::boy:
 <table style="width: 100%; text-align: center;">
